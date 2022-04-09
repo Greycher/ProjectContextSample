@@ -1,0 +1,11 @@
+{
+  "name": "com.greycher.projectcontext",
+  "version": "1.0.0",
+  "displayName": "Project Context",
+  "description": "A dependency management solution based on singleton scriptable object.",
+  "author": {
+    "name": "Greycher",
+    "email": "akgun.talip.ali@gmail.com",
+    "url": "https://github.com/Greycher/ProjectContext"
+  }
+}
