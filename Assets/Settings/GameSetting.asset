@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 99f012f4bc0a4ea58855c426f4e7c203, type: 3}
+  m_Script: {fileID: 11500000, guid: 03d46891a427cd74397d0809f1d83998, type: 3}
   m_Name: GameSetting
   m_EditorClassIdentifier: 
-  PlayerSpeed: 5
+  PlayerSpeed: 0
